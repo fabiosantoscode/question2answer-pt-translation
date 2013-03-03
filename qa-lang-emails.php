@@ -61,7 +61,11 @@
 		'reset_subject' => '^site_title - Redefinir senha',
 		'welcome_body' => "Obrigado por se cadastrar no ^site_title.\n\n^custom^confirm\nSeguem as informações do seu login:\n\nEmail: ^email\nSenha: ^password\n\nPor favor mantenha esta informação segura, para referencia futura.\n\nObrigado,\n\n^site_title\n^url",
 		'welcome_confirm' => "Por favor clique abaixo para confirmar seu endereço de email.\n\n^url\n\n",
-		'welcome_subject' => 'Bem vindo ao ^site_title!',	);
+		'welcome_subject' => 'Bem vindo ao ^site_title!',
+		'moderate_body' => "Um post de ^p_handle requer a sua aprovação:\n\n^open^p_context^close\n\nClique abaixo para aprovar ou rejeitar o post:\n\n^url\n\nObrigado,\n\n^site_title",
+		'moderate_subject' => "Moderação ^site_title",
+		'to_handle_prefix' => "^,\n\n",
+);
 	
 
 /*

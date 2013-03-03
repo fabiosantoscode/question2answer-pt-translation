@@ -108,9 +108,21 @@
 		'unblock_user_button' => 'Desbloquear Usuário',
 		'user_blocked' => '(bloqueado)',
 		'user_not_found' => 'Usuário não encontrado',
-		'view_account_page' => 'Retornar para a pagina de ^1sua conta^2.',
 		'website' => 'Website',
 		'x_ago_from_y' => '^1 atrás de ^2',
+		'add_user_x_favorites' => "Adicionar utilizador ^ aos meus favoritos",
+		'change_email_link' => " - ^1alterar e-mail^2",
+		'confirm_required' => "Para terminar o seu registo, clique no link de confirmação que lhe foi enviado, ou ^1peça outro^2.",
+		'delete_user_button' => "Eliminar utilizador",
+		'mass_mailings_explanation' => "Subscrever e-mails enviados a todos os utilizadores",
+		'mass_mailings' => "Mailings em massa:",
+		'register_limit' => "Demasiados registos. Por favor tente novamente dentro de uma hora",
+		'remember' => "Lembrar",
+		'remove_avatar' => "Remover avatar:",
+		'unsubscribe_complete' => "Cancelou a subscrição a e-mails em massa enviados por ^0. Pode subscrever novamente a qualquer horas, através da sua página de ^1conta^2.",
+		'unsubscribe_title' => "Cancelar subscrição",
+		'unsubscribe_wrong_log_in' => "Código incorrecto - por favor ^1faça log in^2 para cancelar subscrição",
+		'unsubscribe' => "cancelar subscrição:",
 	);
 	
 

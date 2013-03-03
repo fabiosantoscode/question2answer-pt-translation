@@ -64,6 +64,15 @@
 		'x_down_votes' => '^ Votos contra',
 		'x_up_votes' => '^ Votos a favor',
 		'x_with_best_chosen' => ' (^ escolhida como a melhor resposta )',
+		'bonus_points' => "Pontos de bónus:",
+		'permit_close_q' => "Fechar uma questão",
+		'permit_moderate' => "Aprovar e rejeitar posts",
+		'permit_recat' => "Recategorizar qualquer questão",
+		'permit_retag' => "Re-tag qualquer questão",
+		'permit_vote_down' => "Votar posts negativamente",
+		'set_bonus_button' => "Bónus de atualização",
+
+
 	);
 	
 
