@@ -50,7 +50,7 @@
 		'captcha_on_reset_password' => 'Use reCAPTCHA em forma de redefinição de senha:',
 		'captcha_on_unconfirmed' => 'Use reCAPTCHA para mensagens de e-mail se não for confirmado:',
 		'columns_tags' => 'Tag colunas de página:',
-		'columns_users' => 'Usuários colunas de página:',
+		'columns_users' => 'Utilizadores colunas de página:',
 		'comment_on_as' => 'Permitir comentários sobre as respostas:',
 		'comment_on_qs' => 'Permitir comentários sobre perguntas:',
 		'confirm_user_emails' => 'Confirmação de pedido de endereço de email do usuário:',

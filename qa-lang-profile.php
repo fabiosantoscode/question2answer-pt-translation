@@ -58,7 +58,7 @@
 		'score' => 'Pontos:',
 		'send_private_message' => ' - ^1enviar mensagem privada^2',
 		'title' => 'Título:',
-		'user_x' => 'Usuário ^',
+		'user_x' => 'Utilizador ^',
 		'voted_on' => 'Votos em:',
 		'x_chosen_as_best' => ' (^ escolhida como melhor)',
 		'x_down_votes' => '^ Votos contra',

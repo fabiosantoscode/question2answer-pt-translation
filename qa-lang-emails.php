@@ -36,7 +36,7 @@
 		'c_commented_subject' => 'Seu comentário no ^site_title foi adicionado',
 		'confirm_body' => "Por favor clique abaixo para confirmar seu endereço de email para ^site_title.\n\n^url\n\nObrigado,\n^site_title",
 		'confirm_subject' => '^site_title - Confirmação do endereço de email',
-		'feedback_body' => "Comentários:\n^message\n\nNome:\n^name\n\nEmail:\n^email\n\nPágina anterior:\n^previous\n\nUsuários:\n^url\n\nIP:\n^ip\n\nBrowser:\n^browser",
+		'feedback_body' => "Comentários:\n^message\n\nNome:\n^name\n\nEmail:\n^email\n\nPágina anterior:\n^previous\n\nUtilizadores:\n^url\n\nIP:\n^ip\n\nBrowser:\n^browser",
 		'feedback_subject' => '^ opinião',
 		
 		'flagged_body' => "Um post por ^p_handle recebeu^flags:\n\n^open^p_context^close\n\nClique no link a seguir para ver:\n\n^url\n\nThank you,\n\n^site_title",
@@ -59,7 +59,7 @@
 		
 		'reset_body' => "Clique abaixo para redefinir sua senha no ^site_title.\n\n^url\n\nAlternativamente, digite o código abaixo no campo indicado.\n\nCódigo: ^code\n\nSe você não pediu para redefinir sua senha, ignore esta mensagem.\n\nObrigado,\n^site_title",
 		'reset_subject' => '^site_title - Redefinir senha',
-		'welcome_body' => "Obrigado por se cadastrar no ^site_title.\n\n^custom^confirm\nSeguem as informações do seu login:\n\nEmail: ^email\nSenha: ^password\n\nPor favor mantenha esta informação segura, para referencia futura.\n\nObrigado,\n\n^site_title\n^url",
+		'welcome_body' => "Obrigado por se registar no ^site_title.\n\n^custom^confirm\nSeguem as informações do seu login:\n\nEmail: ^email\nSenha: ^password\n\nPor favor mantenha esta informação segura, para referencia futura.\n\nObrigado,\n\n^site_title\n^url",
 		'welcome_confirm' => "Por favor clique abaixo para confirmar seu endereço de email.\n\n^url\n\n",
 		'welcome_subject' => 'Bem vindo ao ^site_title!',
 		'moderate_body' => "Um post de ^p_handle requer a sua aprovação:\n\n^open^p_context^close\n\nClique abaixo para aprovar ou rejeitar o post:\n\n^url\n\nObrigado,\n\n^site_title",

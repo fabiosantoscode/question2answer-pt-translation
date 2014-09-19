@@ -39,7 +39,7 @@
 		'answer_button' => 'resposta',
 		'answer_limit' => 'Muitas respostas recebidas - por favor, tente novamente em uma outra hora',
 		'answer_must_confirm' => 'Por favor ^5confirme seu endereço de email^6 para responder a esta pergunta.',
-		'answer_must_login' => 'Por favor ^1faça o login^2 ou ^3cadastra-se^4 para responder a esta pergunta.',
+		'answer_must_login' => 'Por favor ^1faça o login^2 ou ^3registe-se^4 para responder a esta pergunta.',
 		'answer_q_popup' => 'Responder a esta pergunta',
 		'ask_button' => 'Faça a pergunta',
 		'ask_follow_from_a' => 'Sua pergunta será relacionado para esta resposta:',
