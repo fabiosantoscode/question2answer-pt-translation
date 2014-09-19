@@ -26,7 +26,7 @@
 */
 
 	return array(
-		'about' => 'Sobre',
+		'about' => 'Sobre mim',
 		'avatar_default' => 'Padrão',
 		'avatar_gravatar' => 'Mostrar meu ^1avatar^2',
 		'avatar_label' => 'Avatar:',
