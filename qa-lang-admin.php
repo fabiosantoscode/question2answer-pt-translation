@@ -171,7 +171,7 @@
 		'recalc_posts_count' => 'Obtendo o total do número de perguntas, respostas e comentários...',
 		'recalc_stop' => 'Parar',
 		'recaptcha_fsockopen' => 'Para usar reCAPTCHA, a função PHP fsockopen() precisa estar ativada no servidor. Por favor cheque com o administrador.',
-		'recaptcha_get_keys' => 'Para usar reCAPTCHA, você precisa ^1logar^2 para obter as keys.',
+		'recaptcha_get_keys' => 'Para usar reCAPTCHA, precisa de ^1fazer login^2 para obter as keys.',
 		'recent_hidden_title' => 'Questões com conteúdo oculto recentes',
 		'recount_posts_complete' => 'Todos os posts foram recontados com sucesso.',
 		'recount_posts_note' => ' - o número de respostas, votos e sinalizações para cada post',
