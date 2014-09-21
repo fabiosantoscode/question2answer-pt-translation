@@ -26,12 +26,12 @@
 */
 
 	return array(
-		'a_commented_body' => "Sua resposta no ^site_title tem um novo comentário por ^c_handle:\n\n^open^c_content^close\n\nSua resposta foi:\n\n^open^c_context^close\n\nVocê pode responder adicionando um comentário:\n\n^url\n\nObrigado,\n\n^site_title",
-		'a_commented_subject' => 'Sua resposta no ^site_title tem um novo comentário',
-		'a_followed_body' => "Sua resposta no ^site_title tem uma nova pergunta relacionada por ^q_handle:\n\n^open^q_title^close\n\nSua resposta foi:\n\n^open^a_content^close\n\nClique a seguir para responder:\n\n^url\n\nObrigado,\n\n^site_title",
-		'a_followed_subject' => 'Sua resposta no ^site_title tem uma nova questão relacionada',
-		'a_selected_body' => "Parabéns! Sua resposta no ^site_title foi selecionada como a melhor por ^s_handle:\n\n^open^a_content^close\n\nA pergunta foi:\n\n^open^q_title^close\n\nClique a seguir para responder:\n\n^url\n\nObrigado,\n\n^site_title",
-		'a_selected_subject' => 'Sua resposta no ^site_title foi selecionada!',
+		'a_commented_body' => "A sua resposta no ^site_title tem um novo comentário por ^c_handle:\n\n^open^c_content^close\n\nA sua resposta foi:\n\n^open^c_context^close\n\nVocê pode responder adicionando um comentário:\n\n^url\n\nObrigado,\n\n^site_title",
+		'a_commented_subject' => 'A sua resposta no ^site_title tem um novo comentário',
+		'a_followed_body' => "A sua resposta no ^site_title tem uma nova pergunta relacionada por ^q_handle:\n\n^open^q_title^close\n\nA sua resposta foi:\n\n^open^a_content^close\n\nClique a seguir para responder:\n\n^url\n\nObrigado,\n\n^site_title",
+		'a_followed_subject' => 'A sua resposta no ^site_title tem uma nova questão relacionada',
+		'a_selected_body' => "Parabéns! A sua resposta no ^site_title foi selecionada como a melhor por ^s_handle:\n\n^open^a_content^close\n\nA pergunta foi:\n\n^open^q_title^close\n\nClique a seguir para responder:\n\n^url\n\nObrigado,\n\n^site_title",
+		'a_selected_subject' => 'A sua resposta no ^site_title foi selecionada!',
 		'c_commented_body' => "Um novo comentário por ^c_handle foi adicionado após o seu comentário no ^site_title:\n\n^open^c_content^close\n\nA discussão é a seguinte:\n\n^open^c_context^close\n\nVocê pode responder adicionando outro comentário:\n\n^url\n\nObrigado,\n\n^site_title",
 		'c_commented_subject' => 'Seu comentário no ^site_title foi adicionado',
 		'confirm_body' => "Por favor clique abaixo para confirmar seu endereço de email para ^site_title.\n\n^url\n\nObrigado,\n^site_title",
@@ -42,22 +42,22 @@
 		'flagged_body' => "Um post por ^p_handle recebeu^flags:\n\n^open^p_context^close\n\nClique no link a seguir para ver:\n\n^url\n\nThank you,\n\n^site_title",
 		'flagged_subject' => '^site_title foi marcado como flag',
 		
-		'new_password_body' => "^Sua nova senha para o ^site_title está abaixo.\n\nSenha: ^password\n\nRecomendamos mudar sua senha após o primeiro login.\n\nObrigado,\n^site_title\n^url",
-		'new_password_subject' => '^site_title - Sua nova senha',
+		'new_password_body' => "^A sua nova senha para o ^site_title está abaixo.\n\nSenha: ^password\n\nRecomendamos mudar a sua senha após o primeiro login.\n\nObrigado,\n^site_title\n^url",
+		'new_password_subject' => '^site_title - A sua nova senha',
 		
 		'private_message_body' => "Você enviou uma mensagem privada por ^f_handle em ^site_title:\n\n^open^message^close\n\n^moreObrigado,\n\n^site_title\n\n\nPara bloquear mensagens privadas, edite seu perfil:\n^a_url",
 		'private_message_info' => "Mais informações sobre ^f_handle:\n\n^url\n\n",
 		'private_message_reply' => "Clique a seguir para responder para ^f_handle através de uma mensagem privada:\n\n^url\n\n",
 		'private_message_subject' => 'Mensagem de ^f_handle no ^site_title',
 		
-		'q_answered_body' => "Sua pergunta no ^site_title foi respondida por ^a_handle:\n\n^open^a_content^close\n\nSuas perguntas são:\n\n^open^q_title^close\n\nSe você gostou dessa resposta, você pode selecioná-la como a melhor:\n\n^url\n\nObrigado,\n\n^site_title",
-		'q_answered_subject' => 'Sua pergunta no ^site_title foi respondida',
-		'q_commented_body' => "Sua pergunta no ^site_title tem um novo comentário realizado por ^c_handle:\n\n^open^c_content^close\n\nSua pergunta foi:\n\n^open^c_context^close\n\nVocê pode respondê-la adicionando um novo comentário:\n\n^url\n\nObrigado,\n\n^site_title",
-		'q_commented_subject' => 'Sua pergunta no ^site_title question tem um novo comentário',
+		'q_answered_body' => "A sua pergunta no ^site_title foi respondida por ^a_handle:\n\n^open^a_content^close\n\nAs suas perguntas são:\n\n^open^q_title^close\n\nSe você gostou dessa resposta, você pode selecioná-la como a melhor:\n\n^url\n\nObrigado,\n\n^site_title",
+		'q_answered_subject' => 'A sua pergunta no ^site_title foi respondida',
+		'q_commented_body' => "A sua pergunta no ^site_title tem um novo comentário realizado por ^c_handle:\n\n^open^c_content^close\n\nA sua pergunta foi:\n\n^open^c_context^close\n\nVocê pode respondê-la adicionando um novo comentário:\n\n^url\n\nObrigado,\n\n^site_title",
+		'q_commented_subject' => 'A sua pergunta no ^site_title question tem um novo comentário',
 		'q_posted_body' => "Uma nova pergunta foi realizada por ^q_handle:\n\n^open^q_title\n\n^q_content^close\n\nClique a seguir para ver a pergunta:\n\n^url\n\nObrigado,\n\n^site_title",
 		'q_posted_subject' => '^site_title tem uma nova pergunta',
 		
-		'reset_body' => "Clique abaixo para redefinir sua senha no ^site_title.\n\n^url\n\nAlternativamente, digite o código abaixo no campo indicado.\n\nCódigo: ^code\n\nSe você não pediu para redefinir sua senha, ignore esta mensagem.\n\nObrigado,\n^site_title",
+		'reset_body' => "Clique abaixo para redefinir a sua senha no ^site_title.\n\n^url\n\nAlternativamente, digite o código abaixo no campo indicado.\n\nCódigo: ^code\n\nSe você não pediu para redefinir a sua senha, ignore esta mensagem.\n\nObrigado,\n^site_title",
 		'reset_subject' => '^site_title - Redefinir senha',
 		'welcome_body' => "Obrigado por se registar no ^site_title.\n\n^custom^confirm\nSeguem as informações do seu login:\n\nEmail: ^email\nSenha: ^password\n\nPor favor mantenha esta informação segura, para referencia futura.\n\nObrigado,\n\n^site_title\n^url",
 		'welcome_confirm' => "Por favor clique abaixo para confirmar seu endereço de email.\n\n^url\n\n",
