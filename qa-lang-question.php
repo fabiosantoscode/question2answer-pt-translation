@@ -82,7 +82,7 @@
 		'edited_x_ago' => 'edited ^ ago',
 		'example_tags' => 'Example tags: ',
 		'flag_a_popup' => 'Marque esta resposta como spam ou inapropriada',
-		'flag_button' => 'flag',
+		'flag_button' => 'flag (marcar como inapropriado)',
 		'flag_c_popup' => 'Marque este comentário como spam ou inapropriado',
 		'flag_hide_button' => 'flag e esconder',
 		'flag_limit' => 'Muitos posts marcados como spam - por favor tente novamente em uma hora',
