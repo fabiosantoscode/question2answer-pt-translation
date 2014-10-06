@@ -44,7 +44,7 @@
 		'1_week' => '1 semana',
 		'1_year' => '1 ano',
 		'all_categories' => 'Todas as categorias',
-		'anonymous' => 'anônimo',
+		'anonymous' => 'anónimo',
 		'answer_edited' => 'resposta editada',
 		'answered_qs_title' => 'Todas as perguntas mais respondidas',
 		'answered' => 'respondida',

@@ -37,7 +37,7 @@
 		'gave_out' => 'Votos dados:',
 		'my_account_title' => 'Detalhes da minha conta',
 		'no_posts_by_x' => 'Não há mensagens por ^',
-		'permit_anon_view_ips' => 'visualização dos IPs de posts anônimos',
+		'permit_anon_view_ips' => 'visualização dos IPs de posts anónimos',
 		'permit_delete_hidden' => 'Exclusão de mensagens ocultas',
 		'permit_edit_a' => 'Editar qualquer resposta',
 		'permit_edit_c' => 'Editar qualquer comentário',

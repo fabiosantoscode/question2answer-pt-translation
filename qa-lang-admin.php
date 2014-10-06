@@ -100,7 +100,7 @@
 		'field_single_line' => 'Linha de texto simples',
 		'field_type' => 'Tipo de campo:',
 		'first' => 'Prmeiro',
-		'from_anon' => 'De anônimo:',
+		'from_anon' => 'De anónimo:',
 		'from_plugin_module' => ' (do módulo de plugin: ^)',
 		'from_users' => 'De utilizadores:',
 		'general_title' => 'Geral',
