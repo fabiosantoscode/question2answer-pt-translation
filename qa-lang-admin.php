@@ -211,7 +211,7 @@
 		'users_active' => 'Utilizadores ativos:',
 		'users_must_have' => 'Utilizadores precisam ter',
 		'users_posted' => 'Quem postou:',
-		'users_registered' => 'Utilizadores registrados:',
+		'users_registered' => 'Utilizadores registados:',
 		'users_title' => 'Utilizadores',
 		'users_voted' => 'Em quem os utilizadores votaram:',
 		'viewing_title' => 'Vendo',
